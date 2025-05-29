@@ -2,8 +2,7 @@
 <h3 align="center">Aspiring Software Developer | 2nd Year CSE Student at BRAC University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F76D6D&center=true&vCenter=true&width=435&lines=Passionate+about+coding+and+technology;Always+eager+to+learn+and+grow" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F76D6D&center=true&vCenter=true&width=800&lines=Passionate+about+coding;Interested+in+technology;Always+eager+to+learn+and+grow" alt="Typing SVG" />
 </p>
 
 ---
